@@ -15,7 +15,6 @@ extern "C" {
 
 // Message type constants 
 #define MSG_TYPE_REQUEST   0x0B
-#define MSG_TYPE_STREAM    0x0C
 #define MSG_TYPE_RESPONSE  0x16
 #define MSG_TYPE_ERROR     0x21
 
