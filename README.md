@@ -1,4 +1,4 @@
-# Remote Procedure Call
+schemeыс# Remote Procedure Call
 ## Сборка проекта
 ```bash
 # Clone repo
@@ -10,7 +10,7 @@ pio run
 ```
 
 **Как это выглядело у меня:**
-![Схема RPC](docs/scheme.png)
+![Схема RPC](docs/build_success.png)
 
 ## Обзор
 
