@@ -2,7 +2,7 @@
 ## Сборка проекта
 ```bash
 # Clone repo
-git clone https://github.com/<user>/Remote-Procedure-Call.git
+git clone https://github.com/Nikitak1202/Remote-Procedure-Call.git
 cd Remote-Procedure-Call
 
 # Build with PlatformIO
