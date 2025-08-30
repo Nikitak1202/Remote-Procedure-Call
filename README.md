@@ -1,5 +1,13 @@
 # Remote Procedure Call
+## Сборка проекта
+```bash
+# Clone repo
+git clone https://github.com/<user>/Remote-Procedure-Call.git
+cd Remote-Procedure-Call
 
+# Build with PlatformIO
+pio run
+```
 ## Обзор
 
 Этот проект реализует многоуровневый протокол Remote Procedure Call (RPC) для микроконтроллерной платформы ESP32. Протокол разделён на четыре слоя:
