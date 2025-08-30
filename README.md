@@ -1,4 +1,4 @@
-schemeыс# Remote Procedure Call
+# Remote Procedure Call
 ## Сборка проекта
 ```bash
 # Clone repo
