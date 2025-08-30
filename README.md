@@ -8,6 +8,10 @@ cd Remote-Procedure-Call
 # Build with PlatformIO
 pio run
 ```
+
+**Как это выглядело у меня:**
+![Схема RPC](docs/scheme.png)
+
 ## Обзор
 
 Этот проект реализует многоуровневый протокол Remote Procedure Call (RPC) для микроконтроллерной платформы ESP32. Протокол разделён на четыре слоя:
